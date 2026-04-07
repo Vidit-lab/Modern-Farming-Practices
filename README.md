@@ -21,21 +21,35 @@ Farmer → Trader → Market → Consumer
 Successful farmers follow:
 
 Farmer → Processing → Branding → Market → Consumer
+
+
 📊 What This Project Covers
+
+
 🔍 Key Questions Answered
+
 How much does processing or branding change outcomes?
 Which products show the highest marginal gains?
 How does market access impact farmer income?
 What role do collectives and services play in scaling success?
+
+
 🧠 Key Insights
+
 🌟 1. Processing Multiplies Value
 Raw crops → low margins
 Processed products → exponential income growth
+
+
 🛒 2. Market Access Drives Profit
 Direct selling = higher margins
 Middlemen reduce farmer share
+
+
 🏷️ 3. Branding Creates Premium Products
 Commodity → Brand → Premium pricing
+
+
 🌱 4. Specialty Crops Win Big
 Mushroom 🍄
 Honey 🍯
@@ -49,6 +63,8 @@ FPOs & SHGs enable:
 Scale 📈
 Investment 💰
 Market power ⚡
+
+
 🏭 6. Farmers Are Becoming More Than Producers
 
 Farmers are evolving into:
@@ -63,9 +79,13 @@ Farmers are evolving into:
 This project was not just analysis — it was reconstruction.
 
 ⚠️ Challenges Faced:
+
 ❌ Data was not structured (narrative text, not tables)
+
 ❌ Key variables were missing or implicit
+
 ❌ No consistent format across entries
+
 ❌ Required row-wise interpretation (manual reasoning)
 🧪 What We Did
 
@@ -112,7 +132,4 @@ Focus areas:
 🛠️ Rural service ecosystems
 📄 Final Presentation
 
-You can view the complete storytelling presentation here:
-
-👉
-B.Tech DSAI | IIT Bhilai
+You can view the complete storytelling presentation here: 
