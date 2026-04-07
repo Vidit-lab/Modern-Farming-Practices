@@ -1,0 +1,154 @@
+id,farmer_name,state,Climate,primary_crop,crop_category,innovation_type,Story,Key_Learning,annual_revenue
+1,Veer Shetty Biradar,Telangana,Dryland,Millets,cereal,processing,"Value-added millet products (60 types), established SS Bhavani Foods & NGO Swayam Shakthi.",Value addition multiplies crop value,1600000
+2,Amar Singh,Rajasthan,Semi-arid,Amla,fruit,processing,Amla processing (Murabba making); solar unit; gobar gas; direct marketing.,Fruit processing multiplies income,2600000
+3,Yusuf Khan,Himachal Pradesh,Hill climate,Mushroom,specialty,processing,Mushroom spawn lab & cultivation; Hydroponics; Training center.,Specialized agriculture + training ecosystem creates a strong business ecosystem,7500000
+4,Anmol Mahila Dudh Samiti,Haryana,Plains,Milk,livestock,processing,Self Help Group (SHG); Value addition to milk; Direct marketing.,Women collectivization increases margins,72000
+5,C V Narsimha Raju,Andhra Pradesh,Coastal,Mango,fruit,storage,Ripening chambers (Ethylene-based); Post-harvest management services.,Post harvest services profitable,500000
+6,Tribal Honey Farmers,Andhra Pradesh,Forest,Honey,specialty,processing,Box Bee-keeping:Shift from dangerous wild collection to scientific boxes.,Modernizing traditional practices,300000
+7,Arogya FPO,Andhra Pradesh,Rainfed,Millets,cereal,branding,"Processing:Ready-to-eat millet products.
+
+Branding:""Arogya"" brand.
+
+Aggregation:1350 farmers.",Branding increases millet demand,1500000
+8,Tribal Farmers,Andhra Pradesh,Hilly,Cashew,fruit,storage,"Cold Storage:10MT solar cold room.
+
+Rural Haat:Direct sales infrastructure.",Storage prevents distress selling,1500000
+9,Tribal Women,Assam,Humid,Eri Silk,specialty,processing,"Soil-to-Silk:Growing host plants (Castor) + Rearing silkworms.
+
+Waste: Selling pupae as food.",Full value chain ownership,400000
+10,Angraj FPO,Bihar,Plains,Sattu,cereal,processing,"Brand: ""Lomash"" brand for Sattu/Besan.
+
+Input: Own fertilizer license to avoid black market.",Brand trust drives premium,800000
+11,SHG Mushroom Farmers,Chhattisgarh,Plains,Mushroom,specialty,processing,"Waste to Wealth:Using paddy straw for substrate.
+
+Marketing: Social media groups.",Waste to wealth,264000
+12,Tribal FPO,Rajnandgaon,Forest fringe,Mango,fruit,branding,"Agri-Mall: One-stop input shop.
+
+Brand: ""Chhuriya Kesar Aam"".",Collective buying power,600000
+13,Bantawada FPO,Gujarat,Semi-arid,Fennel,specialty,branding,"Certification:Organic export tag.
+
+Tie-up: Spices Board collaboration.",Certification required for organic premium,1000000
+14,Ginger Growers,Haryana,Rainfed,Ginger,specialty,processing,"Tech:Demonstration plots for scientific practice.
+
+Seed: Disease-free rhizomes.",Seed quality determines yield,500000
+15,Pangwal Tribe,Himachal Pradesh,Hilly,Apple,fruit,processing,"Wadi: Waste land to Fruit Orchard (Apple/Walnut).
+
+Intercrop:Veggies.",Trees as long term assets,400000
+16,Women SHGs,Himachal Pradesh,Hilly,Bamboo,specialty,craft_processing,"Value Add:Bamboo cultivation + Craft (Jewelry/Utility).
+
+Market: Rural Marts.",Skill based value addition,60000
+17,Women FPO,Jharkhand,Dry land,Lemongrass,specialty,processing,"Processing:Distillation of oil.
+
+Product:Sanitizers (during Covid).",Aromatic crops drought resistant,350000
+18,Satpuda FPO,Madhya Pradesh,Plains,Organic Vegetables,vegetable,branding,"Tech:""Jaivikparivar"" App for sales.
+
+Trust:Sanitized/Graded delivery.",Technology connects farmers to consumers,700000
+19,Women SHG Farmers,Odisha,Coastal,Banana,fruit,processing,"Backyard: High density banana in badis.
+
+Tech: Tissue culture plants.",High density farming,60000
+20,Bamboo Artisans,Odisha,Rural,Bamboo,specialty,craft_processing,"Skill: Design upgradation.
+
+Market:Exhibitions/Melas.",Traditional skill + modern design,36000
+21,Jagriti FPO,Punjab,Plains,Pulses,cereal,processing,"Value Add: Oil, Jaggery, Pulses.
+
+Service: Custom Hiring Centre (Machinery).",Service + product model,8500000
+22,Beekeepers,Tripura,Forest,Honey,specialty,branding,"Brand: ""Mountain Honey"".
+
+License: FSSAI certified.",Branding enables retail entry,500000
+23,Farmers,Ballia,Plains,Mentha,specialty,processing,"Crop Shift: Wheat to Mentha/Turmeric.
+
+Processing: Oil extraction unit.",Grow market driven crops,100000
+24,Arun Ishwar Wandre,Maharashtra,Saline land,Bamboo,specialty,plantation & tech,Bamboo on Waste Land:Promoting scientific bamboo cultivation on saline/waste lands for bio-energy and timber.,Climate resilient crop,200000
+25,Dr Brijesh Kamal,Himachal Pradesh,Hilly,Vermicompost,specialty,processing,Vermi-Compost Cluster:Motivated 500+ farmers to build vermi-compost pits; buys back the compost from them.,Market guarantee motivates farmers,8000000
+26,Almoti Devi,Bihar,Plains,Milk,livestock,processing,"""Value Addition:Making Peda(sweets) from unsold milk.
+
+Vermi-compost:Selling manure.""",Processing prevents milk waste,600000
+27,Sunita Kumari,Bihar,Plains,Paddy Straw,specialty,craft_processing,"""Craft: Making wall hangings and scenery from waste paddy straw.
+
+Eco-friendly:Alternative to burning straw.""",Waste to wealth innovation,120000
+28,Sushma Gupta,Bihar,Plains,Mushroom,specialty,processing,"Processing:Making Mushroom Pickle, Papad, Jam, and Tonic.
+
+Brand:""Mushroom Doctor"".",Processing solves perishability,400000
+29,Jamanaben,Gujarat,Plains,Dairy,livestock,processing,"Indigenous Breed: Rearing Gir cows (A2 Milk).
+
+Low Cost: Open ranching system.
+
+Retail: Door-to-door sales.",Success with native breeds and direct marketing.,1500000
+30,Madhu Shakti,Maharashtra,Plains,Beekeeping,specialty,processing,"Pollination Service: Renting bee boxes to farmers for pollination.
+
+Group: 100 women group.",Women collectivization increases margins,336000
+31,Monika Sharma,Maharashtra,Semi-arid,Seed Production,specialty,processing,"Seed Grower:Producing certified seeds of pulses/soybean.
+
+Process:Making Holi colors from natural sources.",Seed Village Concept exercised,
+32,Shabari Fresh,Maharashtra,Dryland,Millet Processing,cereal,branding,"Value Add:Making Jowar Biscuits, Rawa, Idli Mix.
+
+Hurda: Roasted green millet snacks.
+
+Brand: ""Shabari Fresh"".",Rebranding a traditional crop into a premium product.,120000
+33,Jayashree Patil,Maharashtra,Semi-arid,Pulse Processing,cereal,processing,"Mini Dal Mill:Processing Tur/Chana into Dal.
+
+Brand: ""Single Horse"".
+
+Waste: Husk for cattle feed.","A perfect ""Farm-to-Fork"" model for small dairy farmers.",800000
+34,Arunaben,Gujarat,Dyr Arid,SHG (Washing Powder),specialty,processing,"Diversification:SHG making Washing Powder, Soaps, and Pickles.
+
+Market: Local sales.",,30000
+35,Kalpana Marathe,Goa,Humid,Jackfruit,fruit,branding,"Jackfruit Chips: Making Chips, Papad, Leather.
+
+Waste:Preventing fruit rot.
+
+License: FSSAI registered.","Turned a ""wasted"" fruit into a profitable snack industry.",163200
+36,Taraben,Gujarat,Dry,Master Trainer,specialty,service,"Knowledge Sharing:Became a Master Trainer for other SHGs.
+
+Biz: Selling value-added fruits/agarbatti.",Knowledge itself is a product. Training others can be a source of income.,144000
+37,Belmati Cooperative,Uttarakhand,Hilly,Millet & Pulses,cereal,plantation & tech,"Cooperative Brand: ""Hilans"" brand.
+
+Govt Supply:Supplying Iron-rich Laddoos to Anganwadis.
+
+Tech: Vacuum packaging.",Solving malnutrition while generating income.,120000
+38,Veena Bharti,Himachal Pradesh,Hilly,IFS (Integrated),vegetable,plantation & tech,"Diversification:Fruit + Veg + Dairy + Mushroom + Vermicompost.
+
+Marketing:Direct to vendors.","A ""Self-Sufficient"" farm model.",700000
+39,Sarbjit Kaur,Punjab,Plains,Cleaning Agents,specialty,processing,"Eco-Products:Making Phenyl, Handwash, Dishwash.
+
+Market: Local sales & Exhibitions.",Marketing through Self Help Groups.,
+40,Priyanka Pandey,Uttarakhand,Hilly,Mushroom,specialty,plantation & tech,"Year-round:Oyster & Button mushroom.
+
+Value Add:Mushroom Bari, Soup powder, Nuggets.",High-tech cultivation with low-tech processing.,1200000
+41,Kshama Lingara,Karnataka,Plains,IFS & Flowers,specialty,plantation & tech,"Floriculture:Marigold & Chrysanthemum.
+
+Direct:WhatsApp marketing of veggies.
+
+** Livestock:** Sheep & Poultry.","Smart mix of Flowers, Veggies, and Livestock.",
+42,Saroj Patil,Karnataka,Plains,Millet Processing,cereal,processing,"Ready-to-Eat:Ragi Malt, Energy Mix, Laddoos.
+
+Diversity: 45 paddy varieties.
+
+Training:Master Trainer.",Preserving traditional biodiversity (45 varieties).,800000
+43,Vanishree,Karnataka,Plains,Hydroponics Fodder,cereal,processing,"Tech:Hydroponics for green fodder.
+
+Processing:Fruit Jams, Syrups, Candies.
+
+Feed:Homemade dairy feed.",Science graduate applying tech on farm.,600000
+44,Rathna Agadi,Karnataka,Plains,Talloring & Farming,cereal,service,"Livelihood:Stitching + Farming.
+
+Group: SHG Leader.",Providing employment to landless women.,1000000
+45,Barnali Dhara,West Bengal,Plains,Input Dealer (DAESI),specialty,service,"Service: Para-Extension worker (Input Dealer).
+
+Advice: Soil testing & SRI method promotion.",Women make excellent extension agents.,60000
+46,Neeraj Varshney,Uttar Pradesh,Plains,Input Shop,specialty,service,"Business:Running fertilizer/seed shop after husband's death.
+
+Knowledge:DAESI Topper.",Overcoming personal tragedy through professional skills.,800000
+47,Turshaphrang SHG,Meghalaya,Hilly,Millet Processing,cereal,processing,"Demo: Finger Millet demonstration.
+
+Tech: Millet Thresher.
+
+Organic:Vermicompost.",Group demonstration effect.,600000
+48,Rosa Marandi,Jharkhand,Plateau,Tamarind,vegetable,processing,"Processing:Making ""Sweet Chutney"" and cakes instead of selling raw tamarind.
+
+Collection:Forest produce.","Small intervention, massive impact on tribal income.",1000000
+49,Nagesh M. Swami,Maharashtra,Semi-Arid,Jaggery,fruit,processing,Small Farm Jaggery Unit: Organic sugarcane processed on-farm into chemical-free Jaggery.,On-farm value addition yields higher returns than selling raw crops.,144000
+50,Chhagan bhai Somabhai Bhoi,Gujarat,Semi-Arid,Cattle,livestock,plantation & tech,Azolla Cultivation (Bio-feed in $2.7 \times 0.9$m pits),Bio-inputs reduce dependency on expensive commercial feed.,120000
+51,Millet Cafe (Ralgarh SHG),Chhattisgarh,Chhattisgarh Tropical,"Ragi, Kodo and Kutki",cereal,processing,Food Processing & Market Innovation: Established a specialized café to serve traditional dishes like Cheela and Pitha alongside modern snacks like Millet Pizza and Momos to create urban demand.,Value addition and modern presentation are the keys to making tribal crops profitable in the mainstream market.,800000
+52,Fhalam Sampada Producer Co.,Madhya Pradesh,Hilly,Kodo and Kutki,cereal,processing,Decentralized Processing: Installed small-scale de-hulling and cleaning units directly in tribal villages to process raw millets into high-quality packaged grains.,Technical support from research institutes (like CIAE) ensures that tribal groups can meet modern food quality standards.,600000
+53,Arogya FPO,Andhra Pradesh,Rainfed/Tribal Area,Ragi,specialty,branding,Institutional Supply & Nutrition: Created a guaranteed market by supplying Ragi-based nutritional products like biscuits and flour to government Tribal Welfare Hostels.,Successfully federated 35 separate farmer clubs into a single professional business entity to gain bargaining power.,1000000

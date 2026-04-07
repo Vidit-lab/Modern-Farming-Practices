@@ -1,0 +1,54 @@
+id,farmer_name,state,primary_crop,crop_category,innovation_type,business_model,market_channel,value_addition_level,annual_revenue,employment_generated,farmers_supported,scalability_score
+1,Mr. Veer Shetty Biradar,Telangana,Millets,cereal,processing,processor,direct_market,3,1600000,,,high
+2,Mr. Amar Singh,Rajasthan,Amla,fruit,processing,processor,direct_market,3,2600000,,,high
+3,Mr. Yusuf Khan,Himachal Pradesh,Mushroom,specialty,processing,knowledge_enterprise,direct_market,3,7500000,,,medium
+4,Anmol Mahila Dudh Samiti,Haryana,Milk,livestock,processing,cooperative,direct_market,2,72000,,,high
+5,Mr. C. V. Narsimha Raju,Andhra Pradesh,Mango,fruit,post_harvest,service_provider,service_model,1,500000,,,medium
+6,Tribal Honey Farmers,Andhra Pradesh,Honey,specialty,processing,cooperative,direct_market,2,300000,,,high
+7,Arogya FPO,Andhra Pradesh,Millets,cereal,branding,brand_builder,direct_market,3,1500000,,,high
+8,Tribal Farmers,Andhra Pradesh,Cashew,fruit,post_harvest,service_provider,intermediated_market,1,1500000,,,medium
+9,Tribal Women,Assam,Eri Silk,specialty,processing,cooperative,retail,2,400000,,,medium
+10,Angraj FPO,Bihar,Sattu,cereal,processing,brand_builder,direct_market,3,800000,,,high
+11,SHG Mushroom Farmers,Chhattisgarh,Mushroom,specialty,processing,cooperative,direct_market,2,264000,,,high
+12,Tribal FPO,Rajnandgaon,Mango,fruit,branding,brand_builder,direct_market,3,600000,,,high
+13,Bantawada FPO,Gujarat,Fennel,specialty,branding,brand_builder,export,3,1000000,,,medium
+14,Ginger Growers,Haryana,Ginger,specialty,processing,cooperative,intermediated_market,1,500000,,,medium
+15,Pangwal Tribe,Himachal Pradesh,Apple,fruit,marketing,processor,intermediated_market,1,400000,,,medium
+16,Women SHGs,Himachal Pradesh,Bamboo,specialty,processing,cooperative,retail,2,60000,,,high
+17,Women FPO,Jharkhand,Lemongrass,specialty,processing,processor,intermediated_market,2,350000,,,high
+18,Satpuda FPO,Madhya Pradesh,Vegetables,vegetable,marketing,cooperative,direct_market,1,700000,,,high
+19,Women SHG Farmers,Odisha,Banana,fruit,processing,cooperative,retail,2,60000,,,high
+20,Bamboo Artisans,Odisha,Bamboo,specialty,processing,cooperative,retail,2,36000,,,high
+21,Jagriti FPO,Punjab,Pulses,cereal,processing,service_provider,intermediated_market,2,8500000,,,medium
+22,Beekeepers,Tripura,Honey,specialty,branding,brand_builder,retail,3,500000,,,high
+23,Farmers,Ballia,Mentha,specialty,processing,processor,intermediated_market,2,100000,,,high
+24,Arun Ishwar Wandre,Maharashtra,Bamboo,specialty,processing,processor,intermediated_market,1,200000,,,medium
+25,Dr Brijesh Kamal,Himachal Pradesh,Vermicompost,specialty,processing,cooperative,service_model,2,8000000,,,high
+26,Almoti Devi,Bihar,Milk,livestock,processing,processor,direct_market,3,600000,,,high
+27,Sunita Kumari,Bihar,Paddy Straw,specialty,processing,processor,retail,2,120000,,,high
+28,Sushma Gupta,Bihar,Mushroom,specialty,processing,brand_builder,direct_market,3,400000,,,high
+29,Farmer Story 29,India,Millets,cereal,processing,processor,direct_market,2,,,,high
+30,Farmer Story 30,India,Mango,fruit,marketing,processor,intermediated_market,1,,,,medium
+31,Farmer Story 31,India,Honey,specialty,branding,brand_builder,direct_market,3,,,,high
+32,Farmer Story 32,India,Mushroom,specialty,processing,processor,direct_market,2,,,,high
+33,Farmer Story 33,India,Milk,livestock,processing,processor,direct_market,2,,,,high
+34,Farmer Story 34,India,Banana,fruit,processing,processor,retail,2,,,,high
+35,Farmer Story 35,India,Lemongrass,specialty,processing,processor,intermediated_market,2,,,,high
+36,Farmer Story 36,India,Ginger,specialty,processing,processor,intermediated_market,1,,,,medium
+37,Farmer Story 37,India,Bamboo,specialty,processing,processor,retail,2,,,,high
+38,Farmer Story 38,India,Millets,cereal,branding,brand_builder,direct_market,3,,,,high
+39,Farmer Story 39,India,Vegetables,vegetable,marketing,processor,intermediated_market,1,,,,medium
+40,Farmer Story 40,India,Honey,specialty,branding,brand_builder,direct_market,3,,,,high
+41,Farmer Story 41,India,Apple,fruit,marketing,processor,intermediated_market,1,,,,medium
+42,Farmer Story 42,India,Bamboo,specialty,processing,processor,retail,2,,,,high
+43,Farmer Story 43,India,Vermicompost,specialty,processing,cooperative,service_model,2,,,,high
+44,Farmer Story 44,India,Milk,livestock,processing,processor,direct_market,3,,,,high
+45,Farmer Story 45,India,Mushroom,specialty,processing,processor,direct_market,2,,,,high
+46,Farmer Story 46,India,Millets,cereal,processing,processor,direct_market,2,,,,high
+47,Farmer Story 47,India,Honey,specialty,branding,brand_builder,direct_market,3,,,,high
+48,Farmer Story 48,India,Ginger,specialty,processing,processor,intermediated_market,1,,,,medium
+49,Farmer Story 49,India,Mango,fruit,processing,processor,retail,2,,,,high
+50,Farmer Story 50,India,Banana,fruit,processing,processor,retail,2,,,,high
+51,Farmer Story 51,India,Mushroom,specialty,processing,processor,direct_market,2,,,,high
+52,Farmer Story 52,India,Millets,cereal,branding,brand_builder,direct_market,3,,,,high
+53,Farmer Story 53,India,Honey,specialty,branding,brand_builder,direct_market,3,,,,high

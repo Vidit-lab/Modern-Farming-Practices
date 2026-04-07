@@ -1,0 +1,74 @@
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,id,farmer_name,state,Climate,primary_crop,crop_category,innovation_type,business_model,market_channel,Story,Key_Learning,value_addition_level,annual_revenue
+,,,,,,,,1,Veer Shetty Biradar,Telangana,Dryland,Millets,cereal,processing,processor,direct_market,"Value-added millet products (60 types), established SS Bhavani Foods & NGO Swayam Shakthi.",Value addition multiplies crop value,3,1600000
+,,,,,,,,2,Amar Singh,Rajasthan,Semi-arid,Amla,fruit,processing,processor,direct_market,Amla processing (Murabba making); solar unit; gobar gas; direct marketing.,Fruit processing multiplies income,3,2600000
+,,,,,,,,3,Yusuf Khan,Himachal Pradesh,Hill climate,Mushroom,specialty,processing,knowledge_enterprise,direct_market,Mushroom spawn lab & cultivation; Hydroponics; Training center.,Specialized agriculture + training ecosystem creates a strong business ecosystem,3,7500000
+,,,,,,,,4,Anmol Mahila Dudh Samiti,Haryana,NA,Milk,livestock,processing,cooperative,direct_market,Self Help Group (SHG); Value addition to milk; Direct marketing.,Women collectivization increases margins,2,72000
+,,,,,,,,5,C V Narsimha Raju,Andhra Pradesh,Coastal,Mango,fruit,post_harvest,service_provider,service_model,Ripening chambers (Ethylene-based); Post-harvest management services.,Post harvest services profitable,1,500000
+,,,,,,,,6,Tribal Honey Farmers,Andhra Pradesh,Forest,Honey,specialty,processing,cooperative,direct_market,Box Bee-keeping:Shift from dangerous wild collection to scientific boxes.,Modernizing traditional practices,2,300000
+,,,,,,,,7,Arogya FPO,Andhra Pradesh,Rainfed,Millets,cereal,branding,brand_builder,direct_market,"Processing:Ready-to-eat millet products.
+
+Branding:""Arogya"" brand.
+
+Aggregation:1350 farmers.",Branding increases millet demand,3,1500000
+,,,,,,,,8,Tribal Farmers,Andhra Pradesh,Hilly,Cashew,fruit,storage,service_provider,direct_market,"Cold Storage:10MT solar cold room.
+
+Rural Haat:Direct sales infrastructure.",Storage prevents distress selling,1,1500000
+,,,,,,,,9,Tribal Women,Assam,Humid,Eri Silk,specialty,processing,cooperative,direct_market,"Soil-to-Silk:Growing host plants (Castor) + Rearing silkworms.
+
+Waste: Selling pupae as food.",Full value chain ownership,2,400000
+,,,,,,,,10,Angraj FPO,Bihar,Plains,Sattu,cereal,processing,brand_builder,direct_market,"Brand: ""Lomash"" brand for Sattu/Besan.
+
+Input: Own fertilizer license to avoid black market.",Brand trust drives premium,3,800000
+,,,,,,,,11,SHG Mushroom Farmers,Chhattisgarh,Plains,Mushroom,specialty,processing,cooperative,direct_market,"Waste to Wealth:Using paddy straw for substrate.
+
+Marketing: Social media groups.",Waste to wealth,2,264000
+,,,,,,,,12,Tribal FPO,Rajnandgaon,Forest fringe,Mango,fruit,branding,brand_builder,direct_market,"Agri-Mall: One-stop input shop.
+
+Brand: ""Chhuriya Kesar Aam"".",Collective buying power,3,600000
+,,,,,,,,13,Bantawada FPO,Gujarat,Semi-arid,Fennel,specialty,branding,brand_builder,intermediated_market,"Certification:Organic export tag.
+
+Tie-up: Spices Board collaboration.",Certification required for organic premium,3,1000000
+,,,,,,,,14,Ginger Growers,Haryana,Rainfed,Ginger,specialty,processing,cooperative,intermediated_market,"Tech:Demonstration plots for scientific practice.
+
+Seed: Disease-free rhizomes.",Seed quality determines yield,1,500000
+,,,,,,,,15,Pangwal Tribe,Himachal Pradesh,Hilly,Apple,fruit,orchard_model,processor,direct_market,"Wadi: Waste land to Fruit Orchard (Apple/Walnut).
+
+Intercrop:Veggies.",Trees as long term assets,1,400000
+,,,,,,,,16,Women SHGs,Himachal Pradesh,Hilly,Bamboo,specialty,craft_processing,cooperative,direct_market,"Value Add:Bamboo cultivation + Craft (Jewelry/Utility).
+
+Market: Rural Marts.",Skill based value addition,2,60000
+,,,,,,,,17,Women FPO,Jharkhand,Dry land,Lemongrass,specialty,processing,processor,intermediated_market,"Processing:Distillation of oil.
+
+Product:Sanitizers (during Covid).",Aromatic crops drought resistant,2,350000
+,,,,,,,,18,Satpuda FPO,Madhya Pradesh,Plains,Organic Vegetables,vegetable,marketing,cooperative,direct_market,"Tech:""Jaivikparivar"" App for sales.
+
+Trust:Sanitized/Graded delivery.",Technology connects farmers to consumers,1,700000
+,,,,,,,,19,Women SHG Farmers,Odisha,Coastal,Banana,fruit,processing,cooperative,direct_market,"Backyard: High density banana in badis.
+
+Tech: Tissue culture plants.",High density farming,2,60000
+,,,,,,,,20,Bamboo Artisans,Odisha,Rural,Bamboo,specialty,craft_processing,cooperative,direct_market,"Skill: Design upgradation.
+
+Market:Exhibitions/Melas.",Traditional skill + modern design,2,36000
+,,,,,,,,21,Jagriti FPO,Punjab,Plains,Pulses,cereal,processing,service_provider,direct_market,"Value Add: Oil, Jaggery, Pulses.
+
+Service: Custom Hiring Centre (Machinery).",Service + product model,2,8500000
+,,,,,,,,22,Beekeepers,Tripura,Forest,Honey,specialty,branding,brand_builder,direct_market,"Brand: ""Mountain Honey"".
+
+License: FSSAI certified.",Branding enables retail entry,3,500000
+,,,,,,,,23,Farmers,Ballia,Plains,Mentha,specialty,processing,processor,intermediated_market,"Crop Shift: Wheat to Mentha/Turmeric.
+
+Processing: Oil extraction unit.",Grow market driven crops,2,100000
+,,,,,,,,24,Arun Ishwar Wandre,Maharashtra,Saline land,Bamboo,specialty,plantation,processor,intermediated_market,Bamboo on Waste Land:Promoting scientific bamboo cultivation on saline/waste lands for bio-energy and timber.,Climate resilient crop,1,200000
+,,,,,,,,25,Dr Brijesh Kamal,Himachal Pradesh,Hilly,Vermicompost,specialty,processing,cooperative,service_model,Vermi-Compost Cluster:Motivated 500+ farmers to build vermi-compost pits; buys back the compost from them.,Market guarantee motivates farmers,2,8000000
+,,,,,,,,26,Almoti Devi,Bihar,Plains,Milk,livestock,processing,processor,direct_market,"""Value Addition:Making Peda(sweets) from unsold milk.
+
+Vermi-compost:Selling manure.""",Processing prevents milk waste,3,600000
+,,,,,,,,27,Sunita Kumari,Bihar,Plains,Paddy Straw,specialty,craft_processing,processor,direct_market,"""Craft: Making wall hangings and scenery from waste paddy straw.
+
+Eco-friendly:Alternative to burning straw.""",Waste to wealth innovation,2,120000
+,,,,,,,,28,Sushma Gupta,Bihar,Plains,Mushroom,specialty,processing,brand_builder,direct_market,"Processing:Making Mushroom Pickle, Papad, Jam, and Tonic.
+
+Brand:""Mushroom Doctor"".",Processing solves perishability,3,400000
