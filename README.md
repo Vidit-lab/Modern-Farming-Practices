@@ -147,7 +147,7 @@ This project tells a simple but powerful story:
 
 You can view the complete storytelling presentation here:
 
-👉 **[View Presentation (PDF)]((https://drive.google.com/file/d/1pkrRwhExHno3xHxLAp615FmyT6T5yROj/view?usp=drive_link))**
+👉 **[View Presentation (PDF)](https://drive.google.com/file/d/1pkrRwhExHno3xHxLAp615FmyT6T5yROj/view?usp=drive_link)**
 
 *(Ensure the PDF file is present in your repository with this exact name)*
 
